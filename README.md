@@ -11,7 +11,7 @@ Using Git version control systems.
 Managing source code repositories on the GitHub
 Creating documentation
 Installation
-Clone repository: git clone https://github.com/Nitesh0668/Assignments-and-Projects.git
+Clone repository:https://github.com/dikshitrao/csf-project-3.git
 
 Then nevigate here: cd CSF/Assignment_4
 
